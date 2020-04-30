@@ -1,0 +1,75 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1513351974182-1f36b4d965d8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Fernando Silva",
+      "email": "fernando@email.com.br",
+      "birth": 818035200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "75",
+      "height": "175",
+      "created_at": 1588282248030
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1540472737446-47967de89072?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Lucas Santos",
+      "email": "lucas@email.com.br",
+      "birth": 818035200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "60",
+      "height": "163",
+      "created_at": 1588282248030
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1507832949150-59e0710d9278?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Bianca Nogueira",
+      "email": "bianca@email.com.br",
+      "birth": 818035200000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "55",
+      "height": "161",
+      "created_at": 1588282248030
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Algusto Pereira",
+      "email": "algusto@email.com.br",
+      "birth": 818035200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "90",
+      "height": "187",
+      "created_at": 1588282248030
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1490225421893-2908ffad8593?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Luciana Marques",
+      "email": "luciana@email.com.br",
+      "birth": 818035200000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "62",
+      "height": "163",
+      "created_at": 1588282248030
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1518310551420-539ccb4da386?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=500",
+      "name": "Maria Cristina",
+      "birth": 729648000000,
+      "gender": "F",
+      "services": "Ioga, Natação",
+      "created_at": 1588282036919
+    }
+  ]
+}
