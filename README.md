@@ -15,7 +15,11 @@
 <br>
 
 <p align="center">
-  <img alt="Sobre" src=".github/detalhes.png" width="100%">
+  <img alt="Novo e Detalhe" src=".github/novo_detalhe.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Listagem" src=".github/listagem.png" width="100%">
 </p>
 
 ## Como executar o projeto
