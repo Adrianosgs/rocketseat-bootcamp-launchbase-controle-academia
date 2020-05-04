@@ -6,7 +6,7 @@
   Controle de Academia
 </h3>
 
-<p align="center">Criação de um sistema para controle de academia</p>
+<p align="center">Criação de um simples sistema para controle de academia usando o Node.js</p>
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>
